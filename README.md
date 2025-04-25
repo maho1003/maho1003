@@ -10,7 +10,7 @@ I'm a Japanese professional working on digital transformation (DX) initiatives i
 - 🤖Building RAG systems using LLMs
 - 🎨UI/UX design
 
-## 💪Skills (Current & Learning)
+## 💪Skills (Learning)
   ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=microsoft-powerapps&logoColor=white)　![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white)　![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)　![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)　![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
